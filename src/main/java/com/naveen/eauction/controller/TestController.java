@@ -8,7 +8,7 @@ public class TestController {
 	
 	@RequestMapping("/showPage")
 	public String showHomePage() {
-		return "test";
+		return "test1";
 	}
 
 }
